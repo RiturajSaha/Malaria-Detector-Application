@@ -55,7 +55,7 @@ def toggle ():
     
     
 def openfilename(): 
-   filename = filedialog.askopenfilename(title ='"pen') 
+   filename = filedialog.askopenfilename(title ='UPLOAD IMAGE') 
    return filename 
 
 
