@@ -63,7 +63,7 @@ def openfilename():
 def callback():  
   cell="\n IMAGE FILE NOT UPLOADED..."  
   try:
-    model = load_model('a95e25model.h5')
+    model = load_model('a95e30model.h5')
     #model.summary()
     test_image=image.load_img(red("upload"),target_size=(50,50,3))
     #imgplot = plt.imshow(test_image)
