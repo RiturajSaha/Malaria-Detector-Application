@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 System will read the image uploaded by the user, augment it and will use the saved custom model to detect whether the disease is present or not in the patient and thus display the result in a user-friendly language.
 
-#####Below are the steps:-
+##### Below are the steps:-
 - **Upload Image:**
 The user can upload the medical test image through a workstation running on Windows OS. The image should be in jpeg, png or jpg format.
 - **Read Image:**
